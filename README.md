@@ -16,3 +16,5 @@ Create a Blank activity
 include a fragment host in the activity
 create a fragment
 create a navigation graph and associate with fragment host on created activity
+
+Once the ViewModel are created, its time to use it in the fragment (view). For do this, we will use use HHilt anotations over some android classes like Application, Activity and Fragment
