@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Calendar</string>
+    <string name="title_activity_mycalendar">My Calendar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="events_fragment_label">Events Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_events_fragment">Hello events fragment</string>
 </resources>
