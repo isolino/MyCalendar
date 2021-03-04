@@ -60,4 +60,10 @@ dependencies {
     //Hilt
     implementation "com.google.dagger:hilt-android:$hiltVersion"
     kapt "com.google.dagger:hilt-android-compiler:$hiltVersion"
+
+    //RecyclerView
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+
+    //CardView
+    implementation "androidx.cardview:cardview:1.0.0"
 }
